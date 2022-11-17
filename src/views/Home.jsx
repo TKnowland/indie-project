@@ -3,8 +3,8 @@ import ImageSlider from '../components/ImageSlider'
 
 export default () => {
     const slides = [
-        {url: "http://localhost:3000/screenshot1.png", title: 'tutorial level 1'},
-        {url: "http://localhost:3000/screenshot2.png", title: 'tutorial level 2'}
+        {url: "https://localhost:3000/screenshot1.png", title: 'tutorial level 1'},
+        {url: "https://localhost:3000/screenshot2.png", title: 'tutorial level 2'}
     ]
 
     const containerStyles = {
