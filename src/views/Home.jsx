@@ -1,4 +1,5 @@
 import React from 'react'
+import ImageSlider from '../components/ImageSlider'
 import image1 from 'C:/Users/Balls/game-website/src/images/screenshot1.png'
 import image2 from 'C:/Users/Balls/game-website/src/images/screenshot2.png'
 
