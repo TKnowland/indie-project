@@ -1,6 +1,6 @@
 import React from 'react'
-import image1 from 'C:/Users/Balls/game-website/public/screenshot1.png'
-import image2 from 'C:/Users/Balls/game-website/public/screenshot2.png'
+import image1 from 'C:/Users/Balls/game-website/src/images/screenshot1.png'
+import image2 from 'C:/Users/Balls/game-website/src/images/screenshot2.png'
 
 export default () => {
     const slides = [
