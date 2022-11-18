@@ -1,10 +1,11 @@
 import React from 'react'
-import ImageSlider from '../components/ImageSlider'
+import image1 from 'C:/Users/Balls/game-website/public/screenshot1.png'
+import image2 from 'C:/Users/Balls/game-website/public/screenshot2.png'
 
 export default () => {
     const slides = [
-        {url: '../images/screenshot1.png', title: 'tutorial level 1'},
-        {url: '../images/screenshot2.png', title: 'tutorial level 2'}
+        {url: image1, title: 'tutorial level'},
+        {url: image2, title: 'tutorial level'}
     ]
 
     const containerStyles = {
